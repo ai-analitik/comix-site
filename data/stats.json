@@ -152,18 +152,23 @@
   }
  },
  "youtube": {},
+ "errors": [
+  "medcomix: IG_TOKEN_MEDCOMIX not set",
+  "techcomix: IG_TOKEN_TECHCOMIX not set",
+  "c360: IG_TOKEN_360COMIX not set",
+  "youtube MedComix: YT_API_KEY not set"
+ ],
  "totals": {
-  "views": 6898372,
   "reach": 5305747,
   "likes": 115023,
   "comments": 32126,
   "shares": 178469,
   "saves": 11815,
   "watch_hours": 41904,
+  "views": 6898372,
   "posts": 47,
   "followers": 10000,
   "followers_min": true,
   "channels": 4
- },
- "errors": []
+ }
 }
