@@ -1,0 +1,169 @@
+{
+ "updated_at": "2026-10-18T15:19:35+00:00",
+ "source_note": "Boshlang'ich snapshot (Buffer analitikasi): med.comix 1-18 oktabr, tech.comix 14-18 oktabr 2026. tech.comix obunachilari va 360.comix, YouTube raqamlari API ulanganda keladi. API ishlaganda avtomatik almashadi.",
+ "instagram": {
+  "medcomix": {
+   "username": "med.comix",
+   "followers": 10000,
+   "followers_note": "kamida 10 000 (oktabr 2026); aniq raqam API ulanganda keladi",
+   "posts": 33,
+   "views": 6204656,
+   "reach": 4776805,
+   "likes": 102208,
+   "comments": 24903,
+   "shares": 173314,
+   "saves": 10813,
+   "watch_hours": 37650,
+   "top": [
+    {
+     "caption": "Sutmi yoki Suv?",
+     "permalink": null,
+     "views": 2053998,
+     "title": "Sutmi yoki Suv?"
+    },
+    {
+     "caption": "Necha marta esnadingiz?",
+     "permalink": null,
+     "views": 669240,
+     "title": "Esnamang"
+    },
+    {
+     "caption": "Siz qancha chiqardingiz?",
+     "permalink": "https://www.instagram.com/reel/DehK3_4FS_Y/",
+     "views": 560783,
+     "title": "KALKULYATORSIZ"
+    },
+    {
+     "caption": "Necha soniya ushlab turdingiz?",
+     "permalink": null,
+     "views": 302464,
+     "title": "Nafas"
+    },
+    {
+     "caption": "Oyog'ingiz sizga bo'ysundimi?",
+     "permalink": "https://www.instagram.com/reel/DeeLJ2JgKZa/",
+     "views": 210406,
+     "title": "Bo'ysunmas oyoq"
+    },
+    {
+     "caption": "Ko'tara oldingizmi?",
+     "permalink": "https://www.instagram.com/reel/DejSvDljTG-/",
+     "views": 202928,
+     "title": "Qimirlamaydigan barmoq"
+    }
+   ],
+   "as_of": "2026-10-18T20:19:35+05:00",
+   "source": "Buffer snapshot (1-18 Oct 2026, whole channel life)",
+   "followers_min": true
+  },
+  "techcomix": {
+   "username": "tech.comix",
+   "followers": null,
+   "posts": 14,
+   "views": 693716,
+   "reach": 528942,
+   "likes": 12815,
+   "comments": 7223,
+   "shares": 5155,
+   "saves": 1002,
+   "watch_hours": 4253.5,
+   "top": [
+    {
+     "caption": "Sizniki qancha chiqdi?",
+     "permalink": "https://www.instagram.com/reel/DejfjkAk8Xp/",
+     "views": 172564,
+     "title": "Parol testi",
+     "date": "2026-10-16",
+     "reach": 142145,
+     "likes": 3501,
+     "comments": 1071,
+     "shares": 714,
+     "saves": 215,
+     "cover": "brand/covers/01_parol_testi.webp"
+    },
+    {
+     "caption": "Nechta topdingiz?",
+     "permalink": "https://www.instagram.com/reel/Dembwv0AJTe/",
+     "views": 137826,
+     "title": "Robotlarni toping",
+     "date": "2026-10-17",
+     "reach": 85228,
+     "likes": 628,
+     "comments": 3309,
+     "shares": 146,
+     "saves": 51,
+     "cover": "brand/covers/02_robotlarni_toping.webp"
+    },
+    {
+     "caption": "Siz A ni tanlardingizmi yoki B ni?",
+     "permalink": "https://www.instagram.com/reel/DehIlKQG4Iz/",
+     "views": 136002,
+     "title": "Qiyin tanlov",
+     "date": "2026-10-15",
+     "reach": 112801,
+     "likes": 4638,
+     "comments": 689,
+     "shares": 299,
+     "saves": 204,
+     "cover": "brand/covers/03_qiyin_tanlov.webp"
+    },
+    {
+     "caption": "Siz qaysilarini tanladingiz?",
+     "permalink": "https://www.instagram.com/reel/DemU6u4EYxh/",
+     "views": 77156,
+     "title": "3 ta qiyin tanlov",
+     "date": "2026-10-17",
+     "reach": 55673,
+     "likes": 1185,
+     "comments": 1689,
+     "shares": 1190,
+     "saves": 65,
+     "cover": "brand/covers/04_uch_qiyin_tanlov.webp"
+    },
+    {
+     "caption": "Sizda chiqdimi?",
+     "permalink": "https://www.instagram.com/reel/DejtZPPgBuE/",
+     "views": 75431,
+     "title": "To'q sariq nuqta",
+     "date": "2026-10-16",
+     "reach": 58993,
+     "likes": 804,
+     "comments": 23,
+     "shares": 1609,
+     "saves": 325,
+     "cover": "brand/covers/05_toq_sariq_nuqta.webp"
+    },
+    {
+     "caption": "Siz qaysi birini tanladingiz?",
+     "permalink": "https://www.instagram.com/reel/DejVltOlbuv/",
+     "views": 34228,
+     "title": "Zaryad o'g'risi",
+     "date": "2026-10-16",
+     "reach": 29523,
+     "likes": 1043,
+     "comments": 23,
+     "shares": 682,
+     "saves": 65,
+     "cover": "brand/covers/06_zaryad_ogrisi.webp"
+    }
+   ],
+   "as_of": "2026-10-18T17:37:53+05:00",
+   "source": "Buffer snapshot (10 of 14 Reels; 4 Reels from 18 Oct not counted yet)"
+  }
+ },
+ "youtube": {},
+ "totals": {
+  "views": 6898372,
+  "reach": 5305747,
+  "likes": 115023,
+  "comments": 32126,
+  "shares": 178469,
+  "saves": 11815,
+  "watch_hours": 41904,
+  "posts": 47,
+  "followers": 10000,
+  "followers_min": true,
+  "channels": 4
+ },
+ "errors": []
+}
